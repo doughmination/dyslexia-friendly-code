@@ -25,7 +25,7 @@ Full detail, with good/bad examples for each rule, is in `SKILL.md`.
 
 ## Files
 
-`SKILL.md` is the skill itself. `dyslexia-friendly-code.skill` is the same thing zipped for one-click install.
+`claude/SKILL.md` is the skill itself. `claude/dyslexia-friendly-code.skill` is the same thing zipped for one-click install. `codex/SKILL.md` is the Codex variant.
 
 ## Install
 
@@ -33,7 +33,7 @@ In Cowork or Claude Code, add the skill through Settings → Capabilities (or op
 
 ## Other assistants
 
-The root `SKILL.md` targets Claude. `codex/SKILL.md` is a Codex-tuned variant for ChatGPT's Codex — shorter and action-oriented, with explicit "layout only" safeguards. For a repository, drop it at `.codex/skills/dyslexia-friendly-code/SKILL.md`, or adapt its rules into an `AGENTS.md` to apply repo-wide.
+`claude/SKILL.md` targets Claude. `codex/SKILL.md` is a Codex-tuned variant for ChatGPT's Codex — shorter and action-oriented, with explicit "layout only" safeguards. For a repository, drop it at `.codex/skills/dyslexia-friendly-code/SKILL.md`, or adapt its rules into an `AGENTS.md` to apply repo-wide.
 
 ## Licence
 
