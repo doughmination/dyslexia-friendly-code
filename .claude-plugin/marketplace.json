@@ -1,0 +1,24 @@
+{
+  "name": "dyslexia-friendly-code",
+  "owner": {
+    "name": "Clove Twilight",
+    "email": "admin@doughmination.win",
+    "url": "https://github.com/doughmination"
+  },
+  "description": "Accessibility-focused Claude Code plugins from doughmination.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "dyslexia-friendly-code",
+      "source": "./plugins/dyslexia-friendly-code",
+      "description": "Shape generated and reformatted code so a reader with dyslexia can scan it easily.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Clove Twilight"
+      },
+      "homepage": "https://github.com/doughmination/dyslexia-friendly-code",
+      "repository": "https://github.com/doughmination/dyslexia-friendly-code",
+      "license": "DASL-1.0"
+    }
+  ]
+}

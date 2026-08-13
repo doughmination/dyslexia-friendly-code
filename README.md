@@ -25,11 +25,22 @@ Full detail, with good/bad examples for each rule, is in `SKILL.md`.
 
 ## Files
 
-`claude/SKILL.md` is the skill itself. `claude/dyslexia-friendly-code.skill` is the same thing zipped for one-click install. `codex/SKILL.md` is the Codex variant.
+`claude/SKILL.md` is the skill itself. `claude/dyslexia-friendly-code.skill` is the same thing zipped for one-click install. `codex/SKILL.md` is the Codex variant. `.claude-plugin/` and `plugins/` turn this repo into a Claude Code plugin marketplace (see Install below).
 
 ## Install
 
-In Cowork or Claude Code, add the skill through Settings → Capabilities (or open the `.skill` bundle and choose Save skill). Once installed it loads automatically on coding tasks; you can also invoke it by name.
+**Claude Code (marketplace, recommended):**
+
+```
+/plugin marketplace add doughmination/dyslexia-friendly-code
+/plugin install dyslexia-friendly-code@dyslexia-friendly-code
+```
+
+This tracks the repo, so `/plugin marketplace update dyslexia-friendly-code` pulls future revisions of the skill.
+
+**Cowork or Claude Code (manual):**
+
+Add the skill through Settings → Capabilities (or open the `.skill` bundle and choose Save skill). Once installed it loads automatically on coding tasks; you can also invoke it by name.
 
 ## Other assistants
 

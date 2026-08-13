@@ -1,0 +1,20 @@
+{
+  "name": "dyslexia-friendly-code",
+  "displayName": "Dyslexia-Friendly Code",
+  "version": "1.0.0",
+  "description": "Shape generated and reformatted code so a reader with dyslexia can scan it easily. Favors vertical layout, visually distinct names, and consistent spacing over dense, horizontally-packed lines.",
+  "author": {
+    "name": "Clove Twilight",
+    "email": "admin@doughmination.win",
+    "url": "https://github.com/doughmination"
+  },
+  "homepage": "https://github.com/doughmination/dyslexia-friendly-code",
+  "repository": "https://github.com/doughmination/dyslexia-friendly-code",
+  "license": "DASL-1.0",
+  "keywords": [
+    "accessibility",
+    "dyslexia",
+    "formatting",
+    "code-style"
+  ]
+}
