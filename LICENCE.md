@@ -1,9 +1,9 @@
-## THIS CODE IS UNLICENCED!
+## THIS CODE IS UNLICENSED!
 
-Previous licence was accidentality caught in a migration script.
+The previous licence was accidentally added to this repository by an automated licence-migration script.
 
-The whole of this codebase is AI Generated, thus does not hold any Licence.
+The entirety of this codebase was generated using AI (Claude). I have therefore chosen **not to claim copyright ownership or grant any licence to this code**, in accordance with my interpretation and application of the **UK Copyright, Designs and Patents Act 1988 (CDPA)**.
 
-This is to comply with the UK Copyright, Designs and Patents Act 1988, I hold no ownership over any of this code
+No licence is granted to copy, modify, distribute, sublicense, or otherwise use this code.
 
 LLM used: [Claude AI](https://claude.ai)
